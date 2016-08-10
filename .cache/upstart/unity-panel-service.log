@@ -1,0 +1,8 @@
+
+(unity-panel-service:1423): Indicator-Appmenu-WARNING **: Already have a menu for window ID 60817587 with path /com/canonical/menu/3A000B3 from :1.117, unregistering that one
+
+(unity-panel-service:1423): LIBDBUSMENU-GLIB-WARNING **: Unable to get menu proxy: Operation was cancelled
+
+(unity-panel-service:1423): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:1423): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed

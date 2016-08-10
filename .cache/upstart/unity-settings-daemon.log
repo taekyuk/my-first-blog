@@ -1,0 +1,10 @@
+
+(unity-settings-daemon:1410): keyboard-plugin-WARNING **: Unhandled settings change, key 'input-sources-switcher'
+
+(unity-settings-daemon:1410): keyboard-plugin-WARNING **: Unhandled settings change, key 'bell-custom-file'
+
+(unity-settings-daemon:1410): color-plugin-WARNING **: failed to get edid: unable to get EDID for output
+
+(unity-settings-daemon:1410): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output
+
+(unity-settings-daemon:1410): color-plugin-WARNING **: unable to get EDID for xrandr-default: unable to get EDID for output

@@ -1,0 +1,12 @@
+logrotate state -- version 2
+"/home/taekyu/.cache/upstart/indicator-bluetooth.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/dbus.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/update-notifier-release.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/unity-panel-service.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/unity7.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/im-config.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/indicator-power.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/gnome-session-Unity.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/indicator-sound.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/window-stack-bridge.log" 2016-8-10-20:0:0
+"/home/taekyu/.cache/upstart/unity-settings-daemon.log" 2016-8-10-20:0:0
